@@ -1,59 +1,52 @@
-# Intro 
+# Tactile interface gestures and meanings:
 
-- What's RNM
-- What's BCI
-- What is Hive Mind Society
-
-### So, are you gangstalked?
-
-### How RNM operates
-1. 4 modes of RNM BCI - observation only, tactile-feedback, audio (v2k), visual, itching
-
-Things to check first:
-
-- No-Internet, no electricity, underground zone test or Faraday cage
-
-Second:
-
-- Pharmacology-based check
-
-Third:
-
-1) Hands gestures
-
-2) Visual imaging
-
-3) Key phrases
-
-
-Tactile interface gestures and meanings:
-
+As I was onboarded to the criminal syndicate "Hive Mind Society" without my agreement, and against my will, I'm publishing all the information about tactile interface.
 
 A dialect of body signals for broader circle (not used for high-level members communication):
 
 256 active points on the body
 
-- Head
+## Head
+
+Top part of the head:
+- Right part: you understand correctly
+- Left part: you don't understand, you think incorrectly
+
 Eyes:
+- Left eye: something looks bad / not correct, corner of an eye - sad
+- Right eye: something looks good / correct, corner of an eye - happy
 
-Left eye - something looks bad, or you're not correct
-corner of the eye - pity
+Mouth:
+- Left corner: you're saying incorrectly
+- Right corner: you're saying right
 
-Right eye - something looks good, or you're correct
-corner of the eye - happy
+Ears:
 
-TBD
----
-Nose:
-Neck:
-- Body
+- Left ear: you do not hear me, you don't hear something or "I don't hear you".
+- Right ear: you hear correctly or "I can hear you".
+
+## Hands
+
+Armpits:
+- Left armpit: lost opportunity, defeat, damage, illness
+- Right armpit: great job, won, recovery
+
+- Left arm: you're doing something incorrectly
+- Right arm: you're doing something right
+
+- Left elbow: not from your group, opposite group, not near
+- Right elbow: from your group, same group, near you
+
+## Lower body
+
 Lower back:
-Heart:
+- Left part (buttocks inner side) - someone is lying, you're lying
+- Right part  (buttocks inner side) - someone is talking the truth, not lying or you saying the truth
 
-- Hands
-Armpits
-Fingers
+Legs:
+- Left leg: your way is incorrect, not going in a right direction
+- Right leg: your way is correct, you're going in a right direction
 
-- 
-- Legs
-Foot: fingers on foots
+Foots:
+- Left heel: fundamentally wrong, totally incorrect
+- Right heel: fundamentally correct, totally correct
