@@ -6,6 +6,8 @@ A dialect of body signals for broader circle (not used for high-level members co
 
 256 active points on the body
 
+Those are key points (anchors):
+
 ## Head
 
 Top part of the head:
@@ -46,6 +48,10 @@ Lower back:
 Legs:
 - Left leg: your way is incorrect, not going in a right direction
 - Right leg: your way is correct, you're going in a right direction
+
+Feet:
+- (Left) Fingers: numbers from 1 to 5
+- (Right) Fingers: numbers from 10 to 50
 
 Foots:
 - Left heel: fundamentally wrong, totally incorrect
