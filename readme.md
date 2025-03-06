@@ -53,6 +53,6 @@ Feet:
 - (Left) Fingers: numbers from 1 to 5
 - (Right) Fingers: numbers from 10 to 50
 
-Foots:
+Heels:
 - Left heel: fundamentally wrong, totally incorrect
 - Right heel: fundamentally correct, totally correct
